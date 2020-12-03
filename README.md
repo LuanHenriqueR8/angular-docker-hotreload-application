@@ -1,6 +1,6 @@
 ## Run application
 
-`docker-compose up -d`
+`docker-compose build --no-cache && docker-compose up -d`
 
 Now, just wait for a few seconds, the application will be available 
 including with hot reload on the mapped port in the docker-compose.yml.
