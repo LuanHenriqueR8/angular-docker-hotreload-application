@@ -1,5 +1,5 @@
 FROM node:12.2.0
-WORKDIR /app
+WORKDIR /application-dir
 COPY package.json ./
 RUN npm install
 
