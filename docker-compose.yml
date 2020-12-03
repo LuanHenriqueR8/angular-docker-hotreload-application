@@ -1,0 +1,10 @@
+version: "2"
+services:
+  devapp:
+    build: .
+    ports:
+      - "8080:4200"
+    volumes:
+      # the "/app/node_modules" mapping makes the container application independent of the host dependencies
+      - "/app/node_modules"
+      - ".:/app"
