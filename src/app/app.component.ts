@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-docker-hotreload-application';
+  title = 'Change that title to test hot reload!';
 }
