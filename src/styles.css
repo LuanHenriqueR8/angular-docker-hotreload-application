@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+/*@import "assets/css/bootstrap.min.css";*/
+/*@import "assets/css/bootstrap.min.css";*/
+/*@import "assets/vendors/bootstrap/bootstrap.min.css";*/
+@import "assets/vendors/bootstrap/bootstrap.min.css";
+/*@import "assets/vendors/fontawesome/css/all.min.css";*/
+@import "assets/vendors/themify-icons/themify-icons.css";
+@import "assets/vendors/linericon/style.css";
+@import "assets/vendors/owl-carousel/owl.theme.default.min.css";
+/*@import "assets/vendors/owl-carousel/owl.carousel.min.css";*/
+@import "assets/vendors/flat-icon/font/flaticon.css";
+@import "assets/vendors/nice-select/nice-select.css";
+@import "assets/css/style.css";
